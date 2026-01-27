@@ -1,5 +1,7 @@
 # PRIF Publications (prif-pubs)
 
+![PRIF Logo](img/PRIF-logo.gif)
+
 This reposistory hosts publications relevant to the 
 Parallel Runtime Interface for Fortran (PRIF) Specification.
 It also serves as a public forum for discussion surrounding such publications.
