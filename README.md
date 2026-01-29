@@ -24,6 +24,9 @@ We welcome collaboration!
 If you have feedback about a PRIF publication, please [open an issue](../../issues).
 Please try to keep each issue focused on ONE particular topic.
 
+The PRIF spec committee currently holds monthly virtual meetings, which are open to all interested parties.
+Meetings are announced on the [public mailing list](https://groups.google.com/g/prif-spec).
+
 ## Governance
 
 All modifications to the PRIF specfication are governed by the processes documented in the
